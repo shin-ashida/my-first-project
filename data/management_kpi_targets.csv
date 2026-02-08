@@ -1,0 +1,9 @@
+kpi_name,target_value,unit,direction,weight,category
+gross_profit_margin,25.0,%,higher_is_better,0.20,profitability
+operating_profit_margin,15.0,%,higher_is_better,0.15,profitability
+budget_achievement_rate,100.0,%,higher_is_better,0.15,profitability
+schedule_adherence_rate,100.0,%,lower_is_better,0.10,efficiency
+labor_productivity,2000000,yen_per_person,higher_is_better,0.10,efficiency
+safety_incident_rate,0.0,incidents_per_quarter,lower_is_better,0.10,safety
+rework_rate,2.0,%,lower_is_better,0.10,quality
+client_satisfaction,4.5,score_5,higher_is_better,0.10,quality
